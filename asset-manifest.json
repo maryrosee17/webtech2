@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webtech2/static/css/main.44f8b8b5.css",
+    "main.js": "/webtech2/static/js/main.8c1ddb6b.js",
+    "index.html": "/webtech2/index.html",
+    "main.44f8b8b5.css.map": "/webtech2/static/css/main.44f8b8b5.css.map",
+    "main.8c1ddb6b.js.map": "/webtech2/static/js/main.8c1ddb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.8c1ddb6b.js"
+  ]
+}
